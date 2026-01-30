@@ -1,0 +1,44 @@
+commit e6547196ecb126c7a782535741b60c5a7658e93b
+Author: nanYaIfu <154018255+nanYaIfu@users.noreply.github.com>
+Date:   Fri Jan 30 10:36:16 2026 -0800
+
+    Added a div to index.html that stated my favorite food
+
+commit 766e42370d9c9b793f44feed8f57a9efef07cedd
+Author: nanYaIfu <154018255+nanYaIfu@users.noreply.github.com>
+Date:   Fri Jan 30 10:33:44 2026 -0800
+
+    See Part 2.2 of Lab 2
+
+commit 358435b6d2e2683cefc4a03af25df32a94096101
+Author: nanYaIfu <154018255+nanYaIfu@users.noreply.github.com>
+Date:   Fri Jan 30 10:37:30 2026 -0800
+
+    Added a div to index.html that stated my favorite game
+
+commit 48e0f4564d4f659a733e50b109df53ed924e5845
+Author: nanYaIfu <154018255+nanYaIfu@users.noreply.github.com>
+Date:   Fri Jan 30 10:33:44 2026 -0800
+
+    See Part 2.2 of Lab 2
+
+commit b51268a6aed1e3c7445b0c7b4551d0bbe62df312
+Merge: 1d2bfc0 cb01e85
+Author: nanYaIfu <154018255+nanYaIfu@users.noreply.github.com>
+Date:   Fri Jan 30 10:29:05 2026 -0800
+
+    Merge pull request #1 from nanYaIfu/info-fill
+    
+    Filled out the blanks in the html file
+
+commit cb01e85dec1488db4c34e59bbd08ba1b124f74c7
+Author: nanYaIfu <154018255+nanYaIfu@users.noreply.github.com>
+Date:   Fri Jan 30 09:15:45 2026 -0800
+
+    Filled out the blanks in the text of the html file with github username and favorite hobby
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
